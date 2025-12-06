@@ -2,7 +2,7 @@
 
 A complete data analysis project that explores customer purchasing behavior during the Diwali festival season. The project involves data cleaning, preprocessing, exploratory data analysis (EDA), visualizations, and generating business insights using Python.
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes Diwali sales data to uncover valuable consumer insights such as:
 
@@ -16,7 +16,7 @@ Who are the high-value customers?
 
 The analysis helps businesses enhance customer targeting, optimize inventory, and improve marketing strategies during festive seasons.
 
-🚀 Key Objectives
+**🚀 Key Objectives**
 
 Clean and preprocess raw sales data
 
@@ -32,7 +32,7 @@ Find best-selling product categories and products
 
 Derive actionable business insights
 
-📂 Dataset
+**📂 Dataset**
 
 The dataset contains:
 
@@ -42,7 +42,7 @@ Purchase details (Product Category, Product ID, Orders, Amount)
 
 The dataset is included in the project as Diwali Sales Data.csv.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 Tool / Library	Purpose
 Python	Programming & analysis
 Pandas	Data cleaning and manipulation
@@ -50,7 +50,8 @@ NumPy	Numerical operations
 Matplotlib	Data visualization
 Seaborn	Statistical visualizations
 Jupyter Notebook	Project development
-🧹 Data Cleaning & Preprocessing
+
+**🧹 Data Cleaning & Preprocessing**
 
 Removed irrelevant columns (Status, unnamed1)
 
@@ -62,7 +63,7 @@ Checked dataset structure, duplicates, and missing values
 
 Preprocessing helps ensure clean and consistent data for accurate analysis.
 
-📊 Exploratory Data Analysis (EDA)
+**📊 Exploratory Data Analysis (EDA)**
 
 Performed detailed EDA to explore:
 
@@ -99,7 +100,7 @@ are the most sold categories.
 
 Used groupby and aggregation to identify the top 10 highest-selling product IDs.
 
-📝 Insights & Conclusion
+**📝 Insights & Conclusion**
 
 Married women aged 26–35 are the most active buyers.
 
