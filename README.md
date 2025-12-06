@@ -43,13 +43,20 @@ Purchase details (Product Category, Product ID, Orders, Amount)
 The dataset is included in the project as Diwali Sales Data.csv.
 
 **🛠️ Technologies Used**
+
 Tool / Library	Purpose
-Python	Programming & analysis
-Pandas	Data cleaning and manipulation
-NumPy	Numerical operations
-Matplotlib	Data visualization
-Seaborn	Statistical visualizations
-Jupyter Notebook	Project development
+
+Python ---Programming & analysis
+
+Pandas	---Data cleaning and manipulation
+
+NumPy	---Numerical operations
+
+Matplotlib	---Data visualization
+
+Seaborn	---Statistical visualizations
+
+Jupyter Notebook	---Project development
 
 **🧹 Data Cleaning & Preprocessing**
 
