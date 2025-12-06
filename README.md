@@ -1,4 +1,4 @@
-🎇 Diwali Sales Analysis — Python Data Analytics Project
+**🎇 Diwali Sales Analysis — Python Data Analytics Project**
 
 A complete data analysis project that explores customer purchasing behavior during the Diwali festival season. The project involves data cleaning, preprocessing, exploratory data analysis (EDA), visualizations, and generating business insights using Python.
 
